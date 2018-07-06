@@ -1,3 +1,4 @@
+id	name	S	C	O	Fe	N
 GCF_000005825.2 Bacillus pseudofirmus OF4 2.137 2.637 3.548 3.583 12.432
 GCF_000005845.2 Escherichia coli str. K-12 substr. MG1655 2.123 5.942 2.956 6.065 14.562
 GCF_000006175.1 Methanococcus voltae A3 5.750 71.467 3.563 0.661 6.619
