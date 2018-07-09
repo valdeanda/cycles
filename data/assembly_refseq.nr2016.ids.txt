@@ -1,3 +1,7 @@
+LABELS
+SEPARATOR TAB
+DATA
+#NODE_ID, LABEL
 GCF_000005825.2	Bacillus pseudofirmus OF4
 GCF_000005845.2	Escherichia coli str. K-12 substr. MG1655
 GCF_000006175.1	Methanococcus voltae A3
